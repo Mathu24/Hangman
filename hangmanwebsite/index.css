@@ -1,0 +1,55 @@
+header{
+    margin-top: 11%;
+    text-align: center;
+    font-family: 'Schoolbell', arial, serif;
+    font-size: 30px;
+}
+
+.linkField{
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color: transparent;
+    display:flex;
+    margin: 0 auto;
+    margin-top: 25%;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-image: url(pictures/block.webp);
+    background-size: cover;
+}
+
+.linktext{
+    font-size: 30px;
+}
+
+p{ 
+    
+    cursor: pointer;
+    border: 3px dotted black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right:20px;
+    font-family: 'Schoolbell', arial, serif;
+}
+
+.hangmanimg{
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    display:flex;
+    margin: 0 auto;
+    margin-top: 10%;
+    justify-content: center;
+    align-items: center;  
+    margin-left: 47%; 
+}
